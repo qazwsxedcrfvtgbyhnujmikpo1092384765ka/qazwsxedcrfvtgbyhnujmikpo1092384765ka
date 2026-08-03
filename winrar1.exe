@@ -1,0 +1,4 @@
+key=9F3A-XX21
+ActorTickFunction=Prim
+bSupportSuspendTick=true
+bNetLoadOnClient=false
